@@ -1,7 +1,7 @@
 #Headline
 
-x <- norm(100)
-y <- norm(100)
+x <- norm(500)
+y <- norm(500)
 
 #Important feature
 
