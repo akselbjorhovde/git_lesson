@@ -3,4 +3,6 @@
 x <- norm(100)
 y <- norm(100)
 
-#Important feacure
+#Important feature
+
+#New feature
